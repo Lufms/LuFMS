@@ -12,4 +12,6 @@
 
 </div>
 
- ![Snake animation](https://github.com/Lufms/Lufms/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/LuFMS/LuFMS/blob/output/github-contribution-grid-snake.svg)
+
+
