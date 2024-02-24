@@ -2,7 +2,8 @@
 ## Bem vindo ao meu humilde perfil 
 
 #- 🔭 Atualmente estou trabalhando como Help desk
-#- 🌱 Estou cursando Analise e desenvolvimento com o objetivo de me tornar um DEV
+
+##- 🌱 Estou cursando Analise e desenvolvimento com o objetivo de me tornar um DEV
 
 <div>
 <a href="https://github.com/LuizFMS">
